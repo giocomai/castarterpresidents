@@ -1,0 +1,20 @@
+Package: castarterpresidents
+Title: Datasets of presidential press releases compatible with the `castarter` package
+Version: 0.1
+Authors@R: 
+    person(given = "Giorgio",
+           family = "Comai",
+           role = c("aut", "cre"),
+           email = "g@giorgiocomau.eu")
+Description: This is a data package storing datasets compatible with the `castarter` package.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+DataVersion: 0.1.0
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.0
+Date: 2018-10-07
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

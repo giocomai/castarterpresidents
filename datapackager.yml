@@ -1,0 +1,8 @@
+configuration:
+  files:
+    kremlin_en.Rmd:
+      enabled: yes
+  objects:
+  - kremlin_en
+  render_root:
+    tmp: '272985'
